@@ -79,6 +79,7 @@ function SignUpForm() {
 
           <p className="error">{touched.username && errors.username}</p>
         </div>
+        
         <div className="required">
           <label>ŞİFRE</label>
           <input
